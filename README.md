@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=gantaphon-kuth&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -61,11 +61,11 @@ const developer = {
 
 <br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantaphon-kuth&layout=donut-vertical&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=gantaphon-kuth&theme=transparent&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
