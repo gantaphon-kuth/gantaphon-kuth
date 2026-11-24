@@ -18,8 +18,6 @@
 
 <div align="center">
 
-## ✦ WHO AM I ?
-
 </div>
 
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -54,31 +52,6 @@ const developer = {
 
 </div>
 
----
-
-## ⚡ TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-### ◈ PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"/>
-
-<br/><br/>
-
-### ◈ FRAMEWORKS & LIBRARIES
-
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark"/>
-
-<br/><br/>
-
-### ◈ TOOLS & DATABASES
-
-<img src="https://skillicons.dev/icons?i=git,docker,mysql&theme=dark"/>
-
-</div>
-
----
 
 ## 📡 GITHUB PERFORMANCE
 
@@ -96,38 +69,3 @@ const developer = {
 
 </div>
 
----
-
-## 🐍 CONTRIBUTION ANIMATION
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="mailto:gantaphon.p@ku.th">
-<img src="https://img.shields.io/badge/GMAIL-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit+%F0%9F%9A%80"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:30105E,100:050816&height=160&section=footer&animation=twinkling"/>
-
-</div>
