@@ -23,7 +23,7 @@
 **Tools & Databases:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-43A047?style=for-the-badge&logo=heidisql&logoColor=white)
 
 ---
 
