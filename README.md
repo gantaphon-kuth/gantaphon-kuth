@@ -1,124 +1,133 @@
 
-<!-- ================= HERO SECTION ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:00d4ff&height=220&section=header&text=GANTAPHON%20PREMPREE&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gantaphon+%F0%9F%91%8B;Software+Developer;Tech+Enthusiast;Always+Learning+New+Things!" />
+<!-- ANIMATED HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:30105E,65:075985,100:00E5FF&height=260&section=header&text=GANTAPHON%20PREMPREE&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20THINKER&descSize=15&descAlignY=55"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%E2%9A%A1;Learning+%7C+Creating+%7C+Innovating;Let's+Turn+Ideas+Into+Reality+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```yaml
-name: Gantaphon Prempree
-role: Software Developer
-university: Kasetsart University
-currently_working_on: KU Project
-currently_learning:
-  - HTML
-  - JavaScript
-  - CSS
-ask_me_about:
-  - LUA
-email: gantaphon.p@ku.th
+## ✦ WHO AM I ?
+
+</div>
+
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```js
+const developer = {
+  name: "Gantaphon Prempree",
+  role: "Software Developer",
+  university: "Kasetsart University",
+
+  currentlyWorking: "KU Project",
+
+  learning: [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+
+  askMeAbout: ["LUA"],
+
+  email: "gantaphon.p@ku.th",
+
+  motto: "Code. Create. Innovate."
+};
 ```
 
+<br clear="right"/>
+
 <div align="center">
 
-💡 *"Turning ideas into reality through code."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Passionate+about+technology+%E2%9C%A8;Always+exploring+new+possibilities+%F0%9F%94%AE"/>
 
 </div>
 
 ---
 
-## ⚡ Tech Stack & Tools
-
-### 💻 Programming Languages
+## ⚡ TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+### ◈ PROGRAMMING LANGUAGES
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"/>
 
-### 🚀 Frameworks & Libraries
+<br/><br/>
 
-<div align="center">
+### ◈ FRAMEWORKS & LIBRARIES
 
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark"/>
 
-</div>
+<br/><br/>
 
-### 🛠️ Tools & Databases
+### ◈ TOOLS & DATABASES
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,mysql&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+<br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 CONTRIBUTION ANIMATION
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF"/>
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 📫 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="mailto:gantaphon.p@ku.th">
-<img src="https://img.shields.io/badge/Email-Contact_Me-00D4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 🌌 Thanks for visiting my profile!
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit+%F0%9F%9A%80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:30105E,100:050816&height=160&section=footer&animation=twinkling"/>
 
 </div>
